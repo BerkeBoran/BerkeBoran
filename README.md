@@ -1,12 +1,10 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=620&height=70&lines=Hi+there!+I'm+Berke+Boran;Backend+Developer;Developing+Lifeetics;Live+in+production" alt="Berke Boran" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=620&height=70&lines=Hi+there!+I'm+Berke+Boran;Backend+Developer;Developing+Lifeetics;Live+in+production" alt="Berke Boran" />
-
-<a href="https://www.linkedin.com/in/berke-boran-a7a140280/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/berke-boran-a7a140280/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 Welcome to my GitHub page. I'm Berke Boran, a Computer Engineering graduate and backend developer. I build products with **Python** and **Django** — currently **[Lifeetics](https://github.com/BerkeBoran/lifeetics)**, an AI-assisted nutrition platform I run in production. I enjoy working on REST APIs, realtime services, async processing and AI integrations.
 
