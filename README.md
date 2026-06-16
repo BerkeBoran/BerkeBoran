@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/berke-boran-b25496355/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/berke-boran/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 Welcome to my GitHub page. I'm Berke Boran, a backend developer finishing my Computer Engineering degree (2026). I build products with **Python** and **Django** — currently **[Lifeetics](https://github.com/BerkeBoran/lifeetics)**, an AI-assisted nutrition platform I run in production. I enjoy working on REST APIs, realtime services, async processing and AI integrations.
